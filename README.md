@@ -11,7 +11,7 @@
 ทั้งหมดนี้คือ Class เพราะตอน Compile ออกมาจะได้ File ลงท้ายด้วย .class <br><br>
 
 ในภาษา Javascript หรือ Python สามารถเขียน code ได้ทั้นที เช่น<br>
-`` print("Welcome") <br><br> ``
+`` print("Welcome") `` <br><br>
 
 แต่ในภาษา Java ทุกอย่างถูกบังคับให้เขียนใน Class <br>
 
